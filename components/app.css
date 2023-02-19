@@ -1,0 +1,66 @@
+
+.navbar{
+    display: flex;
+    flex-direction: column;
+}
+.nav-right{
+    display: flex;
+}
+.home{
+   display: flex;
+   flex-direction: column;
+    background-color: antiquewhite;    
+    height: 80vh;
+}
+.home-top{
+    display: flex;
+}
+.home-bottom{
+    display: flex;
+    justify-content: center;
+}
+.promofocus{
+    display:flex;
+    justify-content: center;
+}
+h2{
+font-size: 50px;
+font-weight: 900;
+display: flex;
+justify-content: center;
+
+
+}
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.App{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    justify-content: center;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 30vw;
+    gap: 5px;
+    margin-left: 130px;
+}
+.todo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: aquamarine;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
